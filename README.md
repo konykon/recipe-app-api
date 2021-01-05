@@ -14,9 +14,9 @@ The application consists of the:
 * User App which uses endpoints to create and update users, change passwords and create user authentication tokens.
 * Recipe App where detailed recipes are created filtered and sorted by tags and ingredients.
 
-Each user can create an account and create a list of detailed recipes. 
-The recipes include tags, ingredients, instructions and a descriptive image, all created by the user.
-The user can also filter the recipes by tags e.g. Vegeterian, Dessert etc. or Ingredients e.g. Tomato, Pepper etc.
+Each user can create an account and create a list of detailed recipes.  
+The recipes include tags, ingredients, instructions and a descriptive image, all created by the user.  
+The user can also filter the recipes by tags e.g. Vegeterian, Dessert etc. or Ingredients e.g. Tomato, Pepper etc.  
 
 
 To start run:
