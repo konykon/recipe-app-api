@@ -12,5 +12,3 @@ To start run:
 
 To access the API client visit: http://127.0.0.1:8000
 
-
-https://iamafoodblog.com/wp-content/uploads/2014/09/tonkatsu-salad-roll.gif
