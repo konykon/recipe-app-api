@@ -8,6 +8,6 @@ Docker & Docker-Compose
 Travis-CI & Flake8
 
 To start run:
-    docker-compose up
+    ```docker-compose up```
 
 Visit http://127.0.0.1:8000 for the API client.
